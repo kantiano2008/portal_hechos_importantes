@@ -1,0 +1,64 @@
+
+.container {
+ 
+
+ 
+}
+
+.item {
+ border: solid 2px #806040;
+}
+
+.item2 {
+ border: solid 2px #406040;
+}
+
+
+body {
+    background-color: Azure;
+    background-image: url("https://image.freepik.com/foto-gratis/papel-pintado-vintage-patrones-florales-fisuras_23-2147951294.jpg");
+    font-family: Helvetica;
+    
+    }
+ hr {
+ 	height: 5px;
+ 	background-color: LightSkyBlue;
+ 	width: 50%;
+ }   
+    
+    
+    
+ h1 {
+  color:white;
+  background-color: #402000;
+  background: linear-gradient(45deg, blue, teal, #402000);
+  height: 100px;
+  text-align: center;
+  padding-top: 50px;
+ }
+ h2 {
+ 		color:yellow;
+ 		background-color: #403020;
+ 		text-align: center;
+ }
+ 
+ h3 {
+  padding-left: 10px;
+  text-align:center;
+ }
+ 
+ img {
+  border-radius: 10px;
+  text-align:center;
+  margin-right: 50px;
+  margin-left: 35px;
+ }
+ 
+ p 
+ {
+  padding-left: 10px;
+ }
+ 
+ a {
+  padding-left: 10px;
+ }

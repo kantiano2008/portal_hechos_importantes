@@ -1,0 +1,4 @@
+var message =
+ "Está ingresando al Portal de Hechos Importantes en el Perú y el Mundo";
+window.alert(message);
+
